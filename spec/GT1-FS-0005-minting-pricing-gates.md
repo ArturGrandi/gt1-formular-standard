@@ -30,7 +30,8 @@ Valuation is subject to a mandatory coverage gate.
 
 ### Condition
 
-Valuation pauses when the following condition is met: F_stab < P × M
+Valuation pauses when the following condition is met: 
+F_stab < P × M
 
 Where:
 - `F_stab` — Stability Fund (USD-equivalent, eligible assets only)
@@ -66,7 +67,8 @@ Bonding premiums are capped at a maximum of **44%**.
 
 ### Small Purchase Rule
 
-Purchases of size **≤ 111 daily shares** are priced at: P_next_min
+Purchases of size **≤ 111 daily shares** are priced at:
+P_next_min
 
 Larger purchases follow bonding logic subject to the premium cap.
 
