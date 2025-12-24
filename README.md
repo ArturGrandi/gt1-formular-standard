@@ -3,6 +3,10 @@
 GT 1.0 Formular Standard defines the protocol-level specification for the Grand Time
 time-based economic system.
 
+Non-production reference: this repository defines a specification-first
+formular standard for research, modeling, and reference implementation only.
+No production deployment, economic guarantees, or operational usage are implied.
+
 This repository contains the formal standard intended for:
 - developer implementation,
 - security review and auditing,
